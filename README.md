@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Thiago 👋</h1>
 
-<!--
-**SilvaThio/SilvaThio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor focado em <strong>Jogos com Unity (C#)</strong> e <strong>aplicações web</strong> com <strong>JavaScript</strong>, tanto no front quanto no back-end.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- 🎮 Unity | C#
+- 🌐 JavaScript (Vanilla, básico de frameworks)
+- 🧰 HTML, CSS
+- ⚙️ Git & GitHub
+- 📦 Node.js (em aprendizado)
+- 📊 SQL (básico)
+
+---
+
+### 📌 Projetos em Destaque
+
+- 🎯 **[Jogo-plataforma-2D-Fase01]**  
+  Jogo criado na Unity com sistema de movimentação, HUD e pontuação.  
+  _[https://github.com/SilvaThio/Jogo-plataforma-2D-Fase01.git]_
+
+> 📌 Fique à vontade para explorar os repositórios fixados!
+
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/thiago-silva-23dev)
+- Email: theagoavlis08@gmail.com
+
+---
